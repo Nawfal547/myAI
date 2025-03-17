@@ -19,8 +19,8 @@ export default function Terms() {
         <ol className="list-decimal list-inside space-y-4">
           <li className="text-gray-700">
             <span className="font-semibold">Acceptance of Terms:</span> By
-            accessing and using the AI chatbot ("Chatbot") provided by Ramsy
-            ("Provider"), you acknowledge that you have read, understood, and
+            accessing and using the Ekko Bot provided by Nawfal
+            , you acknowledge that you have read, understood, and
             agreed to be bound by these Terms of Use. If you do not agree with
             these terms, do not use the Chatbot.
           </li>
@@ -38,19 +38,19 @@ export default function Terms() {
             <span className="font-semibold">
               No Guarantees on Availability or Support:
             </span>{" "}
-            Ramsy does not guarantee that the Chatbot will be available at all
+            Nawfal does not guarantee that the Chatbot will be available at all
             times, be uninterrupted, secure, or error-free. No technical
             support, maintenance, or updates are guaranteed or required to be
             provided.
           </li>
           <li className="text-gray-700">
             <span className="font-semibold">Limitation of Liability:</span> To
-            the fullest extent permitted by applicable law, Ramsy shall not be
+            the fullest extent permitted by applicable law, Nawfal shall not be
             liable for any direct, indirect, incidental, consequential, special,
             exemplary, or punitive damages arising from or related to your use
             of or inability to use the Chatbot. This includes but is not limited
             to loss of profits, data, business, or any other losses, even if
-            Ramsy has been advised of the possibility of such damages.
+            Nawfal has been advised of the possibility of such damages.
           </li>
           <li className="text-gray-700">
             <span className="font-semibold">
@@ -64,7 +64,7 @@ export default function Terms() {
           <li className="text-gray-700">
             <span className="font-semibold">User Responsibility:</span> You are
             solely responsible for your use of the Chatbot and any actions or
-            decisions made based on its output. Ramsy is not responsible for any
+            decisions made based on its output. Nawfal is not responsible for any
             consequences resulting from the use or misuse of the Chatbot.
           </li>
           <li className="text-gray-700">
@@ -73,7 +73,7 @@ export default function Terms() {
             is not secured and may be processed by third parties. Do not upload,
             share, or transmit any sensitive, confidential, or personal
             information. All conversations conducted through the Chatbot are
-            considered equivalent to public postings, and Ramsy does not
+            considered equivalent to public postings, and Nawfal does not
             guarantee the confidentiality or security of any data shared.
           </li>
           <li className="text-gray-700">
@@ -84,7 +84,7 @@ export default function Terms() {
             these Terms of Use.
           </li>
           <li className="text-gray-700">
-            <span className="font-semibold">Modifications to Terms:</span> Ramsy
+            <span className="font-semibold">Modifications to Terms:</span> Nawfal
             reserves the right to modify these Terms of Use at any time without
             prior notice. Continued use of the Chatbot constitutes acceptance of
             the modified terms.
@@ -98,7 +98,7 @@ export default function Terms() {
           <li className="text-gray-700">
             <span className="font-semibold">Contact Information:</span> If you
             have any questions or concerns regarding these Terms of Use, please
-            contact Ramsy at [insert contact information].
+            contact Nawfal at nawfal_prof@outlook.com.
           </li>
         </ol>
       </div>
